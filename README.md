@@ -20,7 +20,7 @@ This project demonstrates my skills in **React, TypeScript, and modern frontend 
 
 ## 🚀 How to Run
 1. Clone the repository:  
-git clone https://github.com/yourusername/insurance-portal.git
+git clone https://github.com/oyinisrael/Insurance_Portal.git
 
 2. Navigate into the project folder:
 cd insurance-portal
